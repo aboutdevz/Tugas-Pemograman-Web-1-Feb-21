@@ -83,8 +83,8 @@ defined('EXIT__AUTO_MAX')      || define('EXIT__AUTO_MAX', 125); // highest auto
 |--------------------------------------------------------------------------
 |
 */
-// defined('BASE') || define('BASE','http://'.$_SERVER['SERVER_NAME'].'/penilaianpweb/'); // domain url
-defined('BASE') || define('BASE','http://localhost'.'/penilaianpweb/'); // domain url
+defined('BASE') || define('BASE','http://'.$_SERVER['SERVER_NAME'].'/penilaianpweb/'); // domain url
+// defined('BASE') || define('BASE','http://localhost'.'/penilaianpweb/'); // domain url
 
 
 /*
