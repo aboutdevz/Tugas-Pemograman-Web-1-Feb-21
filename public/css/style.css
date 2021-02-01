@@ -1,0 +1,40 @@
+html,body
+{
+    -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    min-height: 100%;
+}
+.login-icon
+{
+    display: inline;
+    margin-top: 50px;
+    font-size: 500%;
+}
+.card-wrapper
+{
+    width: 40%;
+}
+.icon-dashboard
+{
+    font-size: 300%;
+}
+.active_sidebar
+{
+    border-left: 15px solid #321fdb;
+}
+div.table_contain div div div div label select
+{
+    width: 50% !important;
+}
+
+table
+{
+    text-align: center;
+}
+td
+{
+    border-right: 1px solid #d3d3d3 !important;
+    border-top: none !important;
+    border-bottom: none !important;
+}
