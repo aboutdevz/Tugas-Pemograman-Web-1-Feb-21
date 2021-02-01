@@ -123,6 +123,8 @@ class Siswa extends Controller
 
             'tempat_lahir' => $this->request->getVar('tempat_lahir'),
 
+            'tanggal_lahir' => $this->request->getVar('tanggal_lahir'),
+
             'alamat' => $this->request->getVar('alamat'),
 
             'email' => $this->request->getVar('email'),
